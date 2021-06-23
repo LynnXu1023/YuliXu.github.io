@@ -1,15 +1,21 @@
 # main links links
 main:
-
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Research"
+    url: /portfolio/ 
 
   - title: "Teaching"
     url: /teaching/    
+    
+  - title: "Miscellaneous"
+    url: /talks/ 
         
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+    
     
   - title: "Guide"
     url: /markdown/
