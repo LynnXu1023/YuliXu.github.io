@@ -1,20 +1,16 @@
 ---
-title: "Teaching experience 2"
+title: "ECON173A Financial Markets"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "UCSD, Economics Department"
+date: 2020-01-01
+location: "San Diego, CA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course covers some some institutional details on the financial markets, bond pricing (including duration analysis), optimal portfolio problem, mutual fund theorem, Capital Asset Pricing Model, and option pricing (including bounds on option prices, suboptimality of early exercise of American call options, put-call parity, and binomial option pricing).
 
-Heading 1
-======
+It's a link to the syllabus [link](https://alexisakira.github.io/files/173A_syllabus.pdf).
 
-Heading 2
-======
 
-Heading 3
-======
+
