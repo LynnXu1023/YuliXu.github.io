@@ -7,5 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a PhD student at Economics Department, UCSD. 
+I'm a PhD student at Economics Department, UCSD. My research interest is Behavioral Economics and Applied Microeconomics. 
+
+
 
