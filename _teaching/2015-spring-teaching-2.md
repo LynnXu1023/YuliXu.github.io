@@ -1,7 +1,7 @@
 ---
 title: "ECON173A Financial Markets"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "UCSD, Economics Department"
 date: 2020-01-01
