@@ -10,6 +10,7 @@ Please see the Latex tips provided by my professor Dr. Alexis Toda [here](https:
 
 ### Writing Tips
 [Preparing a Referee Report: Guidelines and Perspectives (Berk, Harvey, and Hirshleifer, 2015)](https://LynnXu1023/YuliXu.github.io/files/Refereeing_Guidelines.pdf)
+<a href="YuliXu.github.io/files/Refereeing_Guidelines.pdf" target="_blank">PDF.</a>
 
 [Writing Tips for Ph. D. Students (Cochrane, 2005)](https://LynnXu1023/YuliXu.github.io/files/phd_paper_writing.pdf)
 
