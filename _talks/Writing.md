@@ -9,12 +9,9 @@ permalink: /talks/Writing
 Please see the Latex tips provided by my professor Dr. Alexis Toda [here](https://alexisakira.github.io/misc/latex).
 
 ### Writing Tips
-[Preparing a Referee Report: Guidelines and Perspectives (Berk, Harvey, and Hirshleifer, 2015)](https://YuliXu.github.io/files/Refereeing_Guidelines.pdf)
-<a href="YuliXu.github.io/files/Refereeing_Guidelines.pdf" target="_blank">PDF.</a>
+[Preparing a Referee Report: Guidelines and Perspectives (Berk, Harvey, and Hirshleifer, 2015)](https://lynnxu1023.github.io/YuliXu.github.io/files/Refereeing_Guidelines.pdf)
 
-[Writing Tips for Ph. D. Students (Cochrane, 2005)](https://YuliXu.github.io/files/phd_paper_writing.pdf)
-<a href="YuliXu.github.io/files/phd_paper_writing.pdf" target="_blank">PDF.</a>
+[Writing Tips for Ph. D. Students (Cochrane, 2005)](https://lynnxu1023.github.io/YuliXu.github.io/files/phd_paper_writing.pdf)
 
-[Writing Tips For Economics Research Papers (Nikolov, 2013)](https://YuliXu.github.io/files/writingtips.pdf)
-<a href="YuliXu.github.io/files/writingtips.pdf" target="_blank">PDF.</a>
+[Writing Tips For Economics Research Papers (Nikolov, 2013)](https://lynnxu1023.github.io/YuliXu.github.io/files/writingtips.pdf)
 
