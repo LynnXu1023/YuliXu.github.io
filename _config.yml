@@ -11,7 +11,7 @@ title                    : "Yuli Xu"
 title_separator          : "-"
 name                     : &name "Yuli Xu"
 description              : &description "PhD student at Economics Department, UCSD."
-url                      : https://lynnxu1023.github.io/YuliXu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://YuliXu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YuliXu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -83,12 +83,12 @@ author:
   name             : "Yuli Xu"
   avatar           : "IJ3A3760+.jpg"
   bio              : "PhD student in Economics"
-  location         : "San Diego, CA"
+  location         : "La Jolla, CA"
   location         : "University of California, San Diego"
   email            :  yux037@ucsd.edu
   github           : "https://github.com/LynnXu1023"
   linkedin         : "https://www.linkedin.com/in/yuli-xu-906b11136/"
-  twitter          : "https://twitter.com/home"
+  twitter          : "https://twitter.com/YuliXu7"
 
 
 
