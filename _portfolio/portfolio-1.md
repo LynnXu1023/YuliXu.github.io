@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "Cross-border Impacts: How China′s College Expansion Contributes to America′s Graduate Programs"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
